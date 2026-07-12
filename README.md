@@ -117,8 +117,7 @@ Loan_Approval_Prediction/
 
 ---
 ## 📷 Project Screenshot
-
-![Loan Approval Prediction](https://raw.githubusercontent.com/Sarthaak-19/loan_approved_project_using_ml/main/IMG_20260711_201418.jpg)
+![Loan Approval Prediction](https://raw.githubusercontent.com/Sarthaak-19/loan_approved_project_using_ml/main/IMG_20260712_182853.jpg)
 
 ## 🚀 Future Improvements
 
